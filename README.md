@@ -12,8 +12,8 @@ Efficiency is my game, and I leverage the Linux ecosystem (using WSL) alongside 
 - **[teleport](https://github.com/xGerTowelie/teleport)**: A Go-based tool for managing tmux sessions with fzf for quick access and configuration.
 - **[filemanager](https://github.com/xGerTowelie/filemanager)**: A Vim-inspired terminal file manager for seamless filesystem navigation and file operations.
 - **[todos](https://github.com/xGerTowelie/todos)**: A TUI-based tool using Urwid (Python) to organize to-do lists in a `README.md` file.
-- **[project-manager](https://github.com/xGerTowelie/project-manager)**: A TUI-based tool to display the status of all Git repositories in a project folder and edit multiple repos in parallel, developed with Urwid (Python) and Vim motions.
-- **v0 Filemerge**: CLI tool to load complete projects into the v0 AI (Limited file upload).
+- **[project-manager](https://github.com/xGerTowelie/pm)**: A TUI-based tool to display the status of all Git repositories in a project folder and edit multiple repos in parallel, developed with Urwid (Python) and Vim motions.
+- **[v0-Filemerge](https://github.com/xGerTowelie/v0-filemerge)**: CLI tool to load complete projects into the v0 AI (Limited file upload).
 
 Currently, I'm focused on developing web applications using React/Next.js, Prisma ORM, PostgreSQL, and Tailwind, deploying them on Vercel or Coolify.
 
